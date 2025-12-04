@@ -4,7 +4,7 @@
 I'm an aspiring security professional building my version of the digital world one step at a time. I have experience with offensive web security through CPTC but I'm trying to learn more about defensive side(SOC).
 
 - 🔭 I’m currently working on [learning python automation](https://github.com/rajkive/automation-projects)
-- 📝 I regularly write articles on [rajkive.github.io](rajkive.github.io)
+- 📝 I regularly write articles on [rajkive.github.io](https://rajkive.github.io)
 
 
 # 💻 Tech Stack:

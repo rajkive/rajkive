@@ -4,7 +4,7 @@
 
 I'm an aspiring security professional building my version of the digital world one step at a time. I have experience with offensive web security through CPTC but I'm trying to learn more about defensive side(SOC) through projects and labs.
 
-- 🔭 I’m currently working on [ssh brtueforce detector script](https://github.com/rajkive/ssh-bruteforce-detector)
+- 🔭 I’m currently working on [windows registry change monitoring script](https://github.com/rajkive/registry-change)
 - 📝 I regularly write articles on [rajkive.github.io](https://rajkive.github.io)
 
 ### Tech Stack:

@@ -6,8 +6,3 @@ I'm an aspiring security professional building my version of the digital world o
 
 - 🔭 I’m currently working on [windows registry change monitoring script](https://github.com/rajkive/registry-change)
 - 📝 I regularly write articles on [rajkive.github.io](https://rajkive.github.io)
-
-### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=debian,flask,ts,js,css,html,py,c,github,docker,windows,linux,kali,mysql,vscode,)](https://skillicons.dev)
-
-![Static Badge](https://img.shields.io/badge/portswigger-2d55ae) ![Static Badge](https://img.shields.io/badge/wireshark-2d55ae) ![Static Badge](https://img.shields.io/badge/MITRE%20ATT&CK%20Framework-2d55ae) ![Static Badge](https://img.shields.io/badge/nmap-2d55ae) ![Static Badge](https://img.shields.io/badge/VirusTotal-2d55ae) ![Static Badge](https://img.shields.io/badge/Splunk-2d55ae)

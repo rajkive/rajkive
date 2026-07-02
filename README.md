@@ -24,7 +24,7 @@
 
 #### 🛡 [Azure Honeypot + Sentinel SIEM](https://github.com/rajkive/Azure-cloud-lab-telemetry-monitorring---honeypot)
 Internet-facing honeypot in Azure feeding Microsoft Sentinel in real time. Authored KQL detection rules tuned on **60,000+ real-world authentication attempts** — including brute-force, geo-anomaly, and credential-spray patterns.
-`Azure` `Sentinel` `KQL` `Detection Engineering` `Threat Hunting`
+`Azure` `Sentinel` `KQL` `Detection Engineering`
 
 #### 🔍 [IOC Triage Tool](https://github.com/rajkive/ioc-triage)
 Python CLI that ingests Sentinel log exports, extracts indicators of compromise, enriches IPs, and outputs a clean threat report. Built around a real SOC workflow.
@@ -36,7 +36,7 @@ Lightweight log parser flagging brute-force patterns in Linux and Windows auth l
 
 #### ⌨ [Python Keylogger — Detection R&D](https://github.com/rajkive/py-key-logger)
 A minimal keylogger built to understand what endpoint telemetry catches during credential theft. Used as a reference when writing detection rules for adversary behavior.
-`Python` `Adversary Emulation` `EDR Concepts`
+`Python` `Adversary Emulation` 
 
 ---
 

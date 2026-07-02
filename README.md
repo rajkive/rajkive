@@ -1,6 +1,6 @@
 # Hi, I'm Rajshree 👋
 
-**Aspiring SOC analyst & detection engineer.** I build cloud labs, write KQL detections, and ship Python tooling to cut triage time. Coming from an offensive security background (CPTC), I'm now focused on the blue team side — security operations, threat intel, and vulnerability management.
+**Aspiring Cybersecurity Professional.** I build cloud labs, write KQL detections, and ship Python tooling to cut triage time. Coming from an offensive security background (CPTC), I'm now focused on the blue team side — security operations, threat intel, and vulnerability management.
 
 ---
 
